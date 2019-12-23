@@ -1,0 +1,307 @@
+*{
+
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+header{
+
+    width: 100%;
+    float: left;
+
+}
+
+body{
+
+font-family: 'Merriweather', serif;
+
+}
+
+.container{
+
+     
+width: 1140px;
+height: 100px;
+background-color: white;
+margin: 0 auto;
+
+
+}
+
+.logo{
+
+background-color: white;
+
+height: 80px;
+
+width: 20%;
+
+float: left;
+
+
+}
+.menu{
+
+height: 80px;
+
+width: 30%;
+
+float: left;
+}
+
+nav ul{
+
+LIST-STYLE: NONE;
+}
+nav ul li{
+
+display: inline-block;
+
+padding: 5px;
+
+margin: 68px 1px 1px 1px;
+
+
+}
+
+nav ul li a{
+
+text-decoration: none;
+
+color: blue;
+
+
+
+
+}
+
+ 
+.smedia{
+	    background-color: white;height: 80px;width: 15%;float: left;
+        
+       
+
+
+	}
+
+
+.smedia ul li{
+
+  display: inline-block;
+  padding: 5px;
+
+  margin: 65px 1px 1px 10px;
+}
+
+.lspan{
+
+ background-color: white;height: 80px;width: 5%;float: left;
+
+
+}
+
+
+.lspan ul li {
+display: inline-block;
+margin: 65px 0px 0px 260px;
+
+}
+
+.lspan ul li a{
+text-decoration: none;
+
+
+}
+section{
+
+    
+	width: 100%;
+    float: left;
+
+
+
+
+}
+
+.container2{
+
+width: 1140px;
+height: 100px;
+background-color: pink;
+
+margin: 0 auto;
+
+}
+
+.container1{
+
+width: 1140px;
+height: 100px;
+
+margin: 0 auto;
+
+}
+
+.container3{
+
+width: 1140px;
+height: 100px;
+
+margin: 0 auto;
+
+}
+
+
+
+.container31{
+
+
+text-align: justify;
+width: 40%;
+
+height: 200px;
+
+float: left;
+background-color: gray;
+
+margin: 120px 0px 0px 0px;
+}
+
+.container32{
+
+
+text-align: justify;
+width: 20%;
+
+height: 200px;
+
+float: left;
+background-color: white;
+
+margin: 120px 0px 0px 0px;
+}
+
+.container33{
+
+
+text-align: justify;
+width: 40%;
+
+height: 200px;
+
+float: left;
+background-color: gray;
+
+margin: 120px 0px 0px 0px;
+}
+
+.container1 h4{
+
+ display: block;
+
+
+}
+
+.service-one{
+
+
+text-align: justify;
+width: 20%;
+
+height: 200px;
+
+float: left;
+
+margin: 259px 0px 0px 0px;
+}
+
+.btn1{
+ display: block;
+ margin: 0 auto;
+ padding: 10px 10px;
+ background-color: #115872;
+ color: white;
+}
+
+.service-two{
+
+text-align: justify;
+
+width: 20%;
+
+height: 200px;
+
+float: left;
+
+
+
+margin: 259px 0px 0px 0px;
+}
+.service-three{width: 20%;text-align: justify;float: left;margin: 259px 0px 0px 0px;height: 200px;}
+
+.service-four{
+
+
+
+width: 20%;
+
+height: 200px;
+
+float: left;
+margin: 259px 0px 0px 0px;
+text-align: justify;
+}
+.service-five{
+
+background-color: white;
+
+width: 6.66%;
+
+height: 200px;
+
+float: left;
+
+margin: 259px 0px 0px 0px;
+}
+.service-six{
+
+background-color: white;
+
+width: 6.66%;
+
+height: 200px;
+
+float: left;
+
+margin: 259px 0px 0px 0px;
+}
+
+.service-seven{
+
+background-color: white;
+
+width: 6.66%;
+
+height: 200px;
+
+float: left;
+
+margin: 259px 0px 0px 0px;
+}
+
+
+
+
+
+
+hr{
+
+    border-width: 1px;
+	border-color: red;
+	
+}
+
+
+
